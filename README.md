@@ -1,4 +1,4 @@
-# Seven-Segment Display Driver using Verilog HDL
+# EXP- 2A Seven-Segment Display Driver using Verilog HDL
 
 ## Aim  
 To design and simulate a Verilog HDL seven-segment display driver that converts a 4-bit binary input into the corresponding digits 0–9.
